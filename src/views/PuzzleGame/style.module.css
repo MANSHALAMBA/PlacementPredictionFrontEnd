@@ -1,0 +1,46 @@
+html,
+body,
+#root {
+  background: azure;
+  height: 100%;
+}
+.puzzle h1 {
+  font-size: 48px;
+}
+.puzzle h1,
+.puzzle p {
+  margin: 10px;
+}
+.puzzle input {
+  margin-left: 10px;
+}
+.board {
+  font-family: "Lobster", cursive;
+  min-width: 300px;
+  margin: 10px;
+  display: inline-block;
+}
+.blocks {
+  display: inline-block;
+}
+
+.square {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 60px;
+  height: 60px;
+  background: lightgreen;
+  border: 1px solid darkgreen;
+  line-height: 60px;
+  text-align: center;
+}
+.squarezero {
+  background: beige;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 60px;
+  height: 60px;
+  border: 1px solid darkgreen;
+  line-height: 60px;
+  text-align: center;
+}

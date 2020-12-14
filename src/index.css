@@ -1,0 +1,28 @@
+.swal-button {
+	padding: 7px 19px;
+	border-radius: 2px;
+	background-color: #5e566c;
+	font-size: 12px;
+}
+
+.swal-button:hover {
+	background-color: #5e566c;
+}
+
+.swal-title {
+	margin: 0px;
+	font-size: 26px;
+	font-style: inherit;
+	color: #5e566c;
+
+	margin-bottom: 28px;
+}
+
+.swal-text {
+	margin: 0px;
+
+	font-style: inherit;
+	color: "#9EA0A4";
+
+	margin-bottom: 28px;
+}

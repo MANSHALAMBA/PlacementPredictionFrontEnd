@@ -1,0 +1,17 @@
+.number {
+  border: 1px solid black;
+  border-radius: 6px;
+  background-color: beige;
+  text-align: center;
+  padding-top: 25px;
+  height: 60px;
+}
+
+.target {
+  border: 1px solid black;
+  border-radius: 4px;
+
+  text-align: center;
+
+  height: 30px;
+}
