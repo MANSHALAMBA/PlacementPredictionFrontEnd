@@ -19,12 +19,12 @@ user's chances of grabbing a job in all three categories of companies. As an add
 performance report of the user on all parameters since last six assessments.
 
 Screenshots : 
-[![1.png](https://i.postimg.cc/9Fn3xpnp/1.png)](https://postimg.cc/YhYy01kG)
+[![Screenshot-from-2019-10-30-13-06-45.png](https://i.postimg.cc/vmLr6qgJ/Screenshot-from-2019-10-30-13-06-45.png)](https://postimg.cc/Lq5YcVVD)
 
-[![2.png](https://i.postimg.cc/KY7HyrJC/2.png)](https://postimg.cc/VS6RqMyF)
+[![Screenshot-from-2019-10-30-13-08-40.png](https://i.postimg.cc/SxZ20B9N/Screenshot-from-2019-10-30-13-08-40.png)](https://postimg.cc/nXDcBwT6)
 
-[![3.png](https://i.postimg.cc/Bv3mNP4p/3.png)](https://postimg.cc/68HVp374)
+[![Screenshot-from-2019-10-30-13-10-08.png](https://i.postimg.cc/9XtfH355/Screenshot-from-2019-10-30-13-10-08.png)](https://postimg.cc/SjR4cvxD)
 
-[![4.png](https://i.postimg.cc/bwxTGYkt/4.png)](https://postimg.cc/XrvFmb2j)
+[![Screenshot-from-2019-10-30-13-11-45.png](https://i.postimg.cc/QM13g5jG/Screenshot-from-2019-10-30-13-11-45.png)](https://postimg.cc/rdV3MDdQ)
 
-[![5.png](https://i.postimg.cc/Px93W3xp/5.png)](https://postimg.cc/zbwF5kT8)
+[![Screenshot-from-2019-10-30-15-50-10.png](https://i.postimg.cc/HjD0yfzC/Screenshot-from-2019-10-30-15-50-10.png)](https://postimg.cc/vxh6R2CP)
